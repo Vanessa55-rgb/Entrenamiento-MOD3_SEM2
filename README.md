@@ -29,7 +29,7 @@ Crear un programa en JavaScript que:
 
 Puedes ver el proyecto desplegado en **GitHub Pages** aquí:
 
-👉 [Ver Demo](https://vanessa55-rgb.github.io/Entrenamiento-MOD3_SEM1/)
+👉 [Ver Demo](https://vanessa55-rgb.github.io/Entrenamiento-MOD3_SEM2/)
 
 
 ## 🚀 Cómo usarlo
@@ -37,7 +37,7 @@ Puedes ver el proyecto desplegado en **GitHub Pages** aquí:
 Puedes ver el proyecto ejecutándolo localmente:
 
 1. Descarga o clona este repositorio.
-👉 [Clona](https://github.com/Vanessa55-rgb/Entrenamiento-MOD3_SEM1.git)
+👉 [Clona](https://github.com/Vanessa55-rgb/Entrenamiento-MOD3_SEM2.git)
 2. Abre el archivo `index.html` en tu navegador.
 3. En la interfaz verás instrucciones como:
 > "Haz clic derecho → Inspeccionar → ve a la pestaña 'Consola'"
