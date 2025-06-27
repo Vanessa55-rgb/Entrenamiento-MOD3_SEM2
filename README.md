@@ -2,8 +2,6 @@
 
 Este proyecto es parte del **Entrenamiento - Módulo 3 Semana 2**, y tiene como objetivo practicar estructuras de datos avanzadas en JavaScript: `Objeto`, `Set` y `Map`.
 
-
-
 ## ✅ Objetivo del proyecto
 
 Crear un programa en JavaScript que:
@@ -25,7 +23,6 @@ Crear un programa en JavaScript que:
 └── styles.css
 ```
 
-
 ## 🚀 Cómo ver el proyecto
 
 Puedes ver el proyecto desplegado en **GitHub Pages** aquí:
@@ -44,7 +41,6 @@ Puedes ver el proyecto ejecutándolo localmente:
 > "Haz clic derecho → Inspeccionar → ve a la pestaña 'Consola'"
 4. Haz clic en el botón "Ejecutar en consola".
 5. Verás el resultado en la **consola del navegador** (`F12`)
-
 
 ## 📦 Contenido que se muestra en consola
 
