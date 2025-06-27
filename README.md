@@ -12,7 +12,6 @@ Crear un programa en JavaScript que:
 4. Recorra e imprima los datos usando bucles `for...in`, `for...of` y el método `forEach()`.
 5. Ejecute todo desde una **interfaz web básica** que instruya al usuario cómo abrir la consola del navegador.
 
-
 ## 📁 Estructura del proyecto
 
 ```
@@ -28,7 +27,6 @@ Crear un programa en JavaScript que:
 Puedes ver el proyecto desplegado en **GitHub Pages** aquí:
 
 👉 [Ver Demo](https://vanessa55-rgb.github.io/Entrenamiento-MOD3_SEM2/)
-
 
 ## 🚀 Cómo usarlo
 
