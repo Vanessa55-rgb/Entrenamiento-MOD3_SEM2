@@ -18,10 +18,11 @@ Crear un programa en JavaScript que:
 ## 📁 Estructura del proyecto
 
 ```
-/Gestion-datos/
+/Gestion productos/
+├── gestion_datos.js 
 ├── index.html 
-├── style.css 
-└── gestion_datos.js 
+└── README.md
+└── styles.css
 ```
 
 
